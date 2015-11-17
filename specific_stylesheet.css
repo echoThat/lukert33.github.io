@@ -1,3 +1,7 @@
+#resume_wrapper {
+  text-align: center;
+}
+
 #resume_wrapper embed{
   width: 900px;
   height: 2100px;
